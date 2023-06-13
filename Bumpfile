@@ -1,0 +1,6 @@
+# a bump configuration
+# target files
+
+# vmcg build go module versions
+go.mod
+
